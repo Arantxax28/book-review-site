@@ -1,0 +1,40 @@
+a {
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(19, 35, 52);
+}
+
+footer {
+    border: 4mm ridge;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color: rgb(11, 165, 220);
+}
+
+h2 {
+    color: rgb(11, 165, 220);
+}
+
+header {
+    border: dashed;
+    background-color: rgb(5, 8, 60);
+}
+
+html {
+    font-family: Helvetica;
+}
+
+li {
+    list-style: none;
+}
+
+nav {
+    color:aqua
+}
+
+
+
